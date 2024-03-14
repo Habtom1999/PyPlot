@@ -16,7 +16,7 @@ Project Overview
 6. push your commit up to the GitHub repo.
 7. export your notebook as HTML (a web page) for submission using the menu
 
-# Task 
+# Task
 1 On your machine, open the Jupyter Notebook for editing.
 2 Required: In your Markdown introduction, add a viewable, clickable link to your GitHub repo after your name. Build your brand and make your Markdown introduction clear and professional.
 3 Required: Use Markdown headings  (e.g. Question 1) to clearly show your content by each question number.
