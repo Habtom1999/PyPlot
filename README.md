@@ -1,12 +1,13 @@
-Project3
-Matplotlib and pyplot
-Project Objectives 
+# Project3
+# Matplotlib and pyplot
+# Project Objectives 
 This exercise is used to reinforce key Python visualization skills. It offers practice with web-enabled Jupyter notebooks and lays some important foundations for presenting information obtained from mining the web and processing language
-Note: Anytime we use an external library (something not included in the Python Standard Library) like Matplotlib,  we'll need to:
+# Note
+Anytime we use an external library (something not included in the Python Standard Library) like Matplotlib,  we'll need to:
 install it into our active virtual environment and
 use an import statement in our Python.
 
-Project Overview 
+# Project Overview 
 
 1. Get the starter repo into your GitHub account <https://github.com/wmnlp-materials/pyplot/blob/master/pyplot.ipynb>
 2. clone down your repo to your local machine,
@@ -17,24 +18,18 @@ Project Overview
 7. export your notebook as HTML (a web page) for submission using the menu
 
 # Task
-1 On your machine, open the Jupyter Notebook for editing.
-2 Required: In your Markdown introduction, add a viewable, clickable link to your GitHub repo after your name. Build your brand and make your Markdown introduction clear and professional.
-3 Required: Use Markdown headings  (e.g. Question 1) to clearly show your content by each question number.
-4 Complete the first task.
-5 Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
-6 Complete the second task.
-7 Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
-8 Work this way until all tasks have been completed.
+1. On your machine, open the Jupyter Notebook for editing.
+2. In your Markdown introduction, add a viewable, clickable link to your GitHub repo after your name. Build your brand and make your Markdown introduction clear and professional.
+3. Use Markdown headings  (e.g. Question 1) to clearly show your content by each question number.
+4. Complete the first task.
+5. Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
+6. Complete the second task.
+7. Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
+8.  Work this way until all tasks have been completed.
 
 # Export to HTML and Finalize Repo
-1 Execute each notebook.
-2 After executing, export each notebook to HTML.
-3 Commit and push your HTML files to your GitHub repo along with the executed notebooks.
-4 Verify you have a professional README.md that introduces your GitHub repository and provides helpful information about your project.
-
-
-
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
-
+1. Execute each notebook.
+2.  After executing, export each notebook to HTML.
+3. Commit and push your HTML files to your GitHub repo along with the executed notebooks.
+4. Verify you have a professional README.md that introduces your GitHub repository and provides helpful information about your project.
 
